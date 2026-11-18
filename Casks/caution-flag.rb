@@ -1,6 +1,6 @@
 cask "caution-flag" do
-  version "0.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "0.1.0"
+  sha256 "846f9631c28cc7b7bf6cc6b96255889ef95ec2c12483b49410694126100cc294"
 
   url "https://github.com/taylorbird/homebrew-caution-flag/releases/download/v#{version}/CautionFlag-#{version}.zip"
   name "Caution Flag"
