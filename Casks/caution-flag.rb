@@ -12,6 +12,8 @@ cask "caution-flag" do
     strategy :github_latest
   end
 
+  # The app updates itself (Sparkle, feed at appcast.xml in this repo).
+  auto_updates true
   depends_on macos: :sequoia
 
   app "Caution Flag.app"
