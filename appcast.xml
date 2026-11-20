@@ -6,6 +6,14 @@
     <description>Caution Flag updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.4</title>
+      <pubDate>Fri, 20 Nov 2026 17:21:09 GMT</pubDate>
+      <sparkle:version>127</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/taylorbird/homebrew-caution-flag/releases/download/v0.1.4/CautionFlag-0.1.4.zip" sparkle:edSignature="3+81ox34n6iHdLMbCZ9PSjIZTB18ks4e0Sm0x63K+VKOD9i+q8doRQKsM3XyyapuA98rswgy+0hmty2568bYAQ==" length="3463497" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.1.3</title>
       <pubDate>Fri, 20 Nov 2026 01:27:03 GMT</pubDate>
       <sparkle:version>26</sparkle:version>
